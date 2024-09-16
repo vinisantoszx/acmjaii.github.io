@@ -55,7 +55,7 @@ main {
 .mobile-menu div {
   width: 32px;
   height: 2px;
-  background: #9acd32;
+  background: #e98b38;
   margin: 8px;
   transition: 0.3s;
 }
@@ -68,10 +68,11 @@ main {
     position: absolute;
     top: 15vh;
     right: 0;
-    width: 50vw;
-    height: 92vh;
-    background: #fff;
-    border-left: #9acd32 solid 2px;
+    width: 100vw;
+    height: 50vh;
+    background: #fcfcfc;
+    border-bottom: #e98b38 2px groove;
+    padding-bottom: 20px;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
